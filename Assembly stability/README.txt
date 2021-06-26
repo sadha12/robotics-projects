@@ -1,4 +1,4 @@
-assembly_chk.m - MATLAB function to verify stability of an assembly(First order force closure)
+assembly_chk.m - MATLAB function to verify stability of an assembly using First order force closure
 
 contacts.csv - CSV file specifying details about contacts
 
