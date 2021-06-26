@@ -1,0 +1,26 @@
+>> assembly_chk()
+
+No feasible solution found.
+
+Linprog stopped because no point satisfies the constraints.
+
+Assembly not stable
+
+ans =
+
+     0
+
+>> assembly_chk()
+
+Optimal solution found.
+
+
+Optimal solution found.
+
+Assembly stable
+
+ans =
+
+     1
+
+>> 
