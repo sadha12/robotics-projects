@@ -1,0 +1,34 @@
+formclosure(M)
+
+Optimal solution found.
+
+k=
+    1.0000
+    1.5000
+    1.0000
+    1.5000
+
+Closure Binary Returned
+
+ans =
+
+     1
+
+>> M = [ 1 0 pi/2; 2 0 pi/2]
+
+M =
+
+    1.0000         0    1.5708
+    2.0000         0    1.5708
+
+>> formclosure(M)
+
+No feasible solution found.
+
+Linprog stopped because no point satisfies the constraints.
+
+Closure Binary Returned
+
+ans =
+
+     0
